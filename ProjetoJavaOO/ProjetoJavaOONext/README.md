@@ -1,2 +1,2 @@
-Pojeto final do modulo de orientação a objetos usando java.
-Nese foram criados 2 programas, um para cadastro e manutenção de contas correntes/poupança e outra para cadastro/manutenção de produtos
+Projeto final do modulo de orientação a objetos usando java.
+Nele foram criados 2 programas, um para cadastro e manutenção de contas correntes/poupança e outro para cadastro/manutenção de produtos
